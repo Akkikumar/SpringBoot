@@ -8,6 +8,6 @@ public class LightingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LightingApplication.class, args);
-		System.out.println("hi");
+		System.out.println("hi changed");
 	}
 }
